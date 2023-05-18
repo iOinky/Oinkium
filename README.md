@@ -1,2 +1,2 @@
 # Oinkium
-A light weight chromium-based browser to suit your needs, All devices are supported 
+A lightweight chromium-based browser to suit your needs, All devices are supported 
